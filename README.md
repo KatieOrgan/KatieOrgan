@@ -3,7 +3,7 @@
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="an animated rainbow separator line">
   <br>
-🌱 It's Feb 2025 and I have just graduated from the 12 week Web Dev Le Wagon Bootcamp! 
+🌱 It's Feb 2025 and I have just graduated from a 12 week Web Development Bootcamp at Le Wagon! 
   <br>
 💞️ I’m looking to collaborate on projects throughout the course and eventually build my own app idea, I have a few ;)
    <br>
