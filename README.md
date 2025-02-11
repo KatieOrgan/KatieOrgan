@@ -5,7 +5,7 @@
   <br>
 🌱 It's Feb 2025 and I have just graduated from a 12 week Web Development Bootcamp at Le Wagon! 
   <br>
-💞️ Looking for work but in the mean time, I'm working on developing a language learning app built on Rails during the Bootcamp, as well as some other ideas, I have a few ;)
+💞️ Looking for work but in the meantime, I'm working on developing a language learning app built on Rails during the Bootcamp, as well as some other ideas, I have a few ;)
    <br>
 📫 Reach out to me on Slack @katie organ
    <br>
