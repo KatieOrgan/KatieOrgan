@@ -5,9 +5,9 @@
   <br>
 🌱 It's Feb 2025 and I have just graduated from a 12 week Web Development Bootcamp at Le Wagon! 
   <br>
-💞️ I’m looking to collaborate on projects throughout the course and eventually build my own app idea, I have a few ;)
+💞️ Working on developing a language learning app built on Rails during the Bootcamp, as well as some other ideas, I have a few ;)
    <br>
-📫 How to reach me on Slack @katie organ
+📫 Reach out to me on Slack @katie organ
    <br>
 😄 Pronouns: She
    <br>
