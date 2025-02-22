@@ -1,5 +1,8 @@
 <div id="header" align="left"> 
-<h1></h1>Hi, I’m Katie 👋 </h1>
+<h1></h1>Hi, I’m Katie 👋 </h1> 
+  <br>
+  <br>
+  <a href="https://www.linkedin.com/in/katie-organ-250a9343/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin button"/></a>
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="an animated rainbow separator line">
   <br>
@@ -20,3 +23,5 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="an animated rainbow separator line">
 </div>
+
+
